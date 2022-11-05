@@ -6,15 +6,15 @@
 
 <div align="center">
   <h3>
-    <a href="https://gabrielsousapro.github.io/freecodecamp-challenge-personal-portfolio/">
+    <a target="_blank" href="https://gabrielsousapro.github.io/freecodecamp-challenge-personal-portfolio/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://codepen.io/GabrielSousaOficial/pen/ZEWVWKM?editors=1100">
+    <a target="_blank" href="https://codepen.io/GabrielSousaOficial/pen/ZEWVWKM?editors=1100">
       Solution
     </a>
     <span> | </span>
-    <a href="https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects">
+    <a target="_blank" href="https://www.freecodecamp.org/learn/responsive-web-design/#responsive-web-design-projects">
       Challenge
     </a>
   </h3>
