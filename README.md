@@ -54,8 +54,8 @@ This application/site was created as a submission to a [freeCodeCamp](https://ww
 
 ## Contact
 
-- GitHub [@gabrielsousapro](https://{github.com/gabrielsousapro})
-- Twitter [Gabriel23101364](https://twitter.com/Gabriel23101364)
+- GitHub [@gabrielsousapro](https://github.com/gabrielsousapro)
+- Twitter [@thedevsousa](https://twitter.com/thedevsousa)
 - E-mail sousadev.pro@gmail.com
 
 ## License
